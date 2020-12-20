@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  BluetoothCommunicator
+
+  Created by Aswani G on 12/17/20.
+  
+*/
+
+// MARK: - BLE Home
+"bluetooth.home.time.text" = "Bluetooth Time";
+"bluetooth.home.refresh.button.title" = "Restart scanning";
+"bluetooth.home.connection.disconnect" = "Disconnect";
+
+// MARK: - connection State messages
+"connection.state.failure" = "Connection failed";
+"connection.state.scanning.started" = "Scanning..";
+"connection.state.scanning.stopped" = "Scanning stopped";
+"connection.state.disconnected" = "BLE device got disconnected";
+"connection.state.connected" = "BLE device connected";
+"connection.state.connecting" = "BLE device connecting";
+"connection.state.user.disconnected" =  "You have disconnected from BLE";
+"connection.state.scanning.not.started" = "Scanning not started";
+"connection.bluetooth.not.powered.on" = "Bluetooth not powered on";
+"connection.bluetooth.checking.permission" = "Started checking bluetooth permission";

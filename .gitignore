@@ -1,0 +1,20 @@
+ Xcode
+.DS_Store
+*.pbxuser
+xcuserdata
+DerivedData
+*.xccheckout
+*.xcscmblueprint
+IDEWorkspaceChecks.plist
+
+# cocoapods
+Pods
+Podfile.lock
+
+# iTunes connect packages
+Package.itmsp
+
+# app key
+GoogleService-Info.plist
+
+.build
